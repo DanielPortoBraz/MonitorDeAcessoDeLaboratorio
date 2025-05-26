@@ -56,6 +56,12 @@ Utilizando o microcontrolador Raspberry Pi Pico e o sistema operacional em tempo
    ```
 5. O arquivo `.uf2` gerado pode ser carregado no Raspberry Pi Pico.
 
+---
+## Vídeo de demonstração:
+https://youtube.com/playlist?list=PLaN_cHSVjBi8bVXQ77KFUaqUE1xrwfi_7&si=5XDVtsXpv3InDWz4
+
+---
+
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
